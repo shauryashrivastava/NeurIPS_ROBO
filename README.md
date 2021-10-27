@@ -1,1 +1,3 @@
 # NeurIPS_ROBO
+
+The objective of this competition was to design a controller for 3 different robots with unknown dynamics using abstract controls. We explored different methods to develop control policies using the offline training data that was given beforehand. For the batch RL approach, we built a Gym environment for the robot by modelling the dynamics using neural networks. On the other hand, we also attempted to design a controller using model predictive control algorithms. Various system identification techniques such as SINDy and NARX were implemented and used to form a control algorithm.
