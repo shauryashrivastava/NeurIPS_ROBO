@@ -1,9 +1,8 @@
 #!/usr/bin/env python
 
 """
-Simulate the simplifie Banana selling environment.
+Simulate the robot using models from SINDy and NN
 
-Each episode is selling a single banana.
 """
 
 # Core Library
